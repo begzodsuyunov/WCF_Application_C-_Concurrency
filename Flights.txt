@@ -1,0 +1,960 @@
+AA123 	/	 Los Angeles 	/	08:00	/	 On Time 	/	 No gate
+UA456 	/	 New York 	/	08:01	/	 On Time 	/	 No gate
+DL789 	/	 Chicago 	/	08:02	/	 On Time 	/	 No gate
+AC234 	/	 Toronto 	/	08:03	/	 On Time 	/	 No gate
+BA567 	/	 London 	/	08:04	/	 On Time 	/	 No gate
+LH890 	/	 Frankfurt 	/	08:05	/	 On Time 	/	 No gate
+AF123 	/	 Paris 	/	08:06	/	 On Time 	/	 No gate
+EK456 	/	 Dubai 	/	08:07	/	 On Time 	/	 No gate
+TK789 	/	 Istanbul 	/	08:08	/	 On Time 	/	 No gate
+AZ234 	/	 Rome 	/	08:09	/	 On Time 	/	 No gate
+CX567 	/	 Hong Kong 	/	08:10	/	 On Time 	/	 No gate
+JL890 	/	 Tokyo 	/	08:11	/	 On Time 	/	 No gate
+QR123 	/	 Doha 	/	08:12	/	 On Time 	/	 No gate
+EY456 	/	 Abu Dhabi 	/	08:13	/	 On Time 	/	 No gate
+KE789 	/	 Seoul 	/	08:14	/	 On Time 	/	 No gate
+AI234 	/	 Delhi 	/	08:15	/	 On Time 	/	 No gate
+TG567 	/	 Bangkok 	/	08:16	/	 On Time 	/	 No gate
+KL890 	/	 Amsterdam 	/	08:17	/	 On Time 	/	 No gate
+UA321 	/	 Washington DC 	/	08:18	/	 On Time 	/	 No gate
+DL654 	/	 Miami 	/	08:19	/	 On Time 	/	 No gate
+AC987 	/	 Montreal 	/	08:20	/	 On Time 	/	 No gate
+BA432 	/	 Edinburgh 	/	08:21	/	 On Time 	/	 No gate
+LH765 	/	 Munich 	/	08:22	/	 On Time 	/	 No gate
+AF890 	/	 Lyon 	/	08:23	/	 On Time 	/	 No gate
+EK321 	/	 Abu Dhabi 	/	08:24	/	 On Time 	/	 No gate
+TK654 	/	 Antalya 	/	08:25	/	 On Time 	/	 No gate
+AZ987 	/	 Milan 	/	08:26	/	 On Time 	/	 No gate
+CX432 	/	 Taipei 	/	08:27	/	 On Time 	/	 No gate
+JL765 	/	 Osaka 	/	08:28	/	 On Time 	/	 No gate
+QR890 	/	 Dubai 	/	08:29	/	 On Time 	/	 No gate
+EY321 	/	 Muscat 	/	08:30	/	 On Time 	/	 No gate
+KE654 	/	 Jeju 	/	08:31	/	 On Time 	/	 No gate
+AI987 	/	 Mumbai 	/	08:32	/	 On Time 	/	 No gate
+TG432 	/	 Phuket 	/	08:33	/	 On Time 	/	 No gate
+KL765 	/	 Copenhagen 	/	08:34	/	 On Time 	/	 No gate
+UA890 	/	 Houston 	/	08:35	/	 On Time 	/	 No gate
+DL321 	/	 Las Vegas 	/	08:36	/	 On Time 	/	 No gate
+AC654 	/	 Vancouver 	/	08:37	/	 On Time 	/	 No gate
+BA987 	/	 Manchester 	/	08:38	/	 On Time 	/	 No gate
+LH432 	/	 Hamburg 	/	08:39	/	 On Time 	/	 No gate
+AF765 	/	 Marseille 	/	08:40	/	 On Time 	/	 No gate
+UA555 	/	 Houston 	/	08:41	/	 On Time 	/	 No gate
+AA666 	/	 Los Angeles 	/	08:42	/	 On Time 	/	 No gate
+DL777 	/	 New York 	/	08:43	/	 On Time 	/	 No gate
+AC888 	/	 Toronto 	/	08:44	/	 On Time 	/	 No gate
+BA999 	/	 London 	/	08:45	/	 On Time 	/	 No gate
+LH1010 	/	 Frankfurt 	/	08:46	/	 On Time 	/	 No gate
+AF1111 	/	 Paris 	/	08:47	/	 On Time 	/	 No gate
+EK1212 	/	 Dubai 	/	08:48	/	 On Time 	/	 No gate
+TK1313 	/	 Istanbul 	/	08:49	/	 On Time 	/	 No gate
+AZ1414 	/	 Rome 	/	08:50	/	 On Time 	/	 No gate
+CX1515 	/	 Hong Kong 	/	08:51	/	 On Time 	/	 No gate
+JL1616 	/	 Tokyo 	/	08:52	/	 On Time 	/	 No gate
+QR1717 	/	 Doha 	/	08:53	/	 On Time 	/	 No gate
+EY1818 	/	 Abu Dhabi 	/	08:54	/	 On Time 	/	 No gate
+KE1919 	/	 Seoul 	/	08:55	/	 On Time 	/	 No gate
+AI2020 	/	 Delhi 	/	08:56	/	 On Time 	/	 No gate
+TG2121 	/	 Bangkok 	/	08:57	/	 On Time 	/	 No gate
+KL2222 	/	 Amsterdam 	/	08:58	/	 On Time 	/	 No gate
+UA2323 	/	 Washington DC 	/	08:59	/	 On Time 	/	 No gate
+DL2424 	/	 Miami 	/	09:00	/	 On Time 	/	 No gate
+AA124	/	 Los Angeles 	/	09:01	/	 On Time 	/	 No gate
+UA457	/	 New York 	/	09:02	/	 On Time 	/	 No gate
+DL790	/	 Chicago 	/	09:03	/	 On Time 	/	 No gate
+AC235	/	 Toronto 	/	09:04	/	 On Time 	/	 No gate
+BA568	/	 London 	/	09:05	/	 On Time 	/	 No gate
+LH891	/	 Frankfurt 	/	09:06	/	 On Time 	/	 No gate
+AF124	/	 Paris 	/	09:07	/	 On Time 	/	 No gate
+EK457	/	 Dubai 	/	09:08	/	 On Time 	/	 No gate
+TK790	/	 Istanbul 	/	09:09	/	 On Time 	/	 No gate
+AZ235	/	 Rome 	/	09:10	/	 On Time 	/	 No gate
+CX568	/	 Hong Kong 	/	09:11	/	 On Time 	/	 No gate
+JL891	/	 Tokyo 	/	09:12	/	 On Time 	/	 No gate
+QR124	/	 Doha 	/	09:13	/	 On Time 	/	 No gate
+EY457	/	 Abu Dhabi 	/	09:14	/	 On Time 	/	 No gate
+KE790	/	 Seoul 	/	09:15	/	 On Time 	/	 No gate
+AI235	/	 Delhi 	/	09:16	/	 On Time 	/	 No gate
+TG568	/	 Bangkok 	/	09:17	/	 On Time 	/	 No gate
+KL891	/	 Amsterdam 	/	09:18	/	 On Time 	/	 No gate
+UA322	/	 Washington DC 	/	09:19	/	 On Time 	/	 No gate
+DL655	/	 Miami 	/	09:20	/	 On Time 	/	 No gate
+AC988	/	 Montreal 	/	09:21	/	 On Time 	/	 No gate
+BA433	/	 Edinburgh 	/	09:22	/	 On Time 	/	 No gate
+LH766	/	 Munich 	/	09:23	/	 On Time 	/	 No gate
+AF891	/	 Lyon 	/	09:24	/	 On Time 	/	 No gate
+EK322	/	 Abu Dhabi 	/	09:25	/	 On Time 	/	 No gate
+TK655	/	 Antalya 	/	09:26	/	 On Time 	/	 No gate
+AZ988	/	 Milan 	/	09:27	/	 On Time 	/	 No gate
+CX433	/	 Taipei 	/	09:28	/	 On Time 	/	 No gate
+JL766	/	 Osaka 	/	09:29	/	 On Time 	/	 No gate
+QR891	/	 Dubai 	/	09:30	/	 On Time 	/	 No gate
+EY322	/	 Muscat 	/	09:31	/	 On Time 	/	 No gate
+KE655	/	 Jeju 	/	09:32	/	 On Time 	/	 No gate
+AI988	/	 Mumbai 	/	09:33	/	 On Time 	/	 No gate
+TG433	/	 Phuket 	/	09:34	/	 On Time 	/	 No gate
+KL766	/	 Copenhagen 	/	09:35	/	 On Time 	/	 No gate
+UA891	/	 Houston 	/	09:36	/	 On Time 	/	 No gate
+DL322	/	 Las Vegas 	/	09:37	/	 On Time 	/	 No gate
+AC655	/	 Vancouver 	/	09:38	/	 On Time 	/	 No gate
+BA988	/	 Manchester 	/	09:39	/	 On Time 	/	 No gate
+LH433	/	 Hamburg 	/	09:40	/	 On Time 	/	 No gate
+AF766	/	 Marseille 	/	09:41	/	 On Time 	/	 No gate
+UA556	/	 Houston 	/	09:42	/	 On Time 	/	 No gate
+AA667	/	 Los Angeles 	/	09:43	/	 On Time 	/	 No gate
+DL778	/	 New York 	/	09:44	/	 On Time 	/	 No gate
+AC889	/	 Toronto 	/	09:45	/	 On Time 	/	 No gate
+BA1000	/	 London 	/	09:46	/	 On Time 	/	 No gate
+LH1011	/	 Frankfurt 	/	09:47	/	 On Time 	/	 No gate
+AF1112	/	 Paris 	/	09:48	/	 On Time 	/	 No gate
+EK1213	/	 Dubai 	/	09:49	/	 On Time 	/	 No gate
+TK1314	/	 Istanbul 	/	09:50	/	 On Time 	/	 No gate
+AZ1415	/	 Rome 	/	09:51	/	 On Time 	/	 No gate
+CX1516	/	 Hong Kong 	/	09:52	/	 On Time 	/	 No gate
+JL1617	/	 Tokyo 	/	09:53	/	 On Time 	/	 No gate
+QR1718	/	 Doha 	/	09:54	/	 On Time 	/	 No gate
+EY1819	/	 Abu Dhabi 	/	09:55	/	 On Time 	/	 No gate
+KE1920	/	 Seoul 	/	09:56	/	 On Time 	/	 No gate
+AI2021	/	 Delhi 	/	09:57	/	 On Time 	/	 No gate
+TG2122	/	 Bangkok 	/	09:58	/	 On Time 	/	 No gate
+KL2223	/	 Amsterdam 	/	09:59	/	 On Time 	/	 No gate
+UA2324	/	 Washington DC 	/	10:00	/	 On Time 	/	 No gate
+DL2425	/	 Miami 	/	10:01	/	 On Time 	/	 No gate
+AA125	/	 Los Angeles 	/	10:02	/	 On Time 	/	 No gate
+UA458	/	 New York 	/	10:03	/	 On Time 	/	 No gate
+DL791	/	 Chicago 	/	10:04	/	 On Time 	/	 No gate
+AC236	/	 Toronto 	/	10:05	/	 On Time 	/	 No gate
+BA569	/	 London 	/	10:06	/	 On Time 	/	 No gate
+LH892	/	 Frankfurt 	/	10:07	/	 On Time 	/	 No gate
+AF125	/	 Paris 	/	10:08	/	 On Time 	/	 No gate
+EK458	/	 Dubai 	/	10:09	/	 On Time 	/	 No gate
+TK791	/	 Istanbul 	/	10:10	/	 On Time 	/	 No gate
+AZ236	/	 Rome 	/	10:11	/	 On Time 	/	 No gate
+CX569	/	 Hong Kong 	/	10:12	/	 On Time 	/	 No gate
+JL892	/	 Tokyo 	/	10:13	/	 On Time 	/	 No gate
+QR125	/	 Doha 	/	10:14	/	 On Time 	/	 No gate
+EY458	/	 Abu Dhabi 	/	10:15	/	 On Time 	/	 No gate
+KE791	/	 Seoul 	/	10:16	/	 On Time 	/	 No gate
+AI236	/	 Delhi 	/	10:17	/	 On Time 	/	 No gate
+TG569	/	 Bangkok 	/	10:18	/	 On Time 	/	 No gate
+KL892	/	 Amsterdam 	/	10:19	/	 On Time 	/	 No gate
+UA323	/	 Washington DC 	/	10:20	/	 On Time 	/	 No gate
+DL656	/	 Miami 	/	10:21	/	 On Time 	/	 No gate
+AC989	/	 Montreal 	/	10:22	/	 On Time 	/	 No gate
+BA434	/	 Edinburgh 	/	10:23	/	 On Time 	/	 No gate
+LH767	/	 Munich 	/	10:24	/	 On Time 	/	 No gate
+AF892	/	 Lyon 	/	10:25	/	 On Time 	/	 No gate
+EK323	/	 Abu Dhabi 	/	10:26	/	 On Time 	/	 No gate
+TK656	/	 Antalya 	/	10:27	/	 On Time 	/	 No gate
+AZ989	/	 Milan 	/	10:28	/	 On Time 	/	 No gate
+CX434	/	 Taipei 	/	10:29	/	 On Time 	/	 No gate
+JL767	/	 Osaka 	/	10:30	/	 On Time 	/	 No gate
+QR892	/	 Dubai 	/	10:31	/	 On Time 	/	 No gate
+EY323	/	 Muscat 	/	10:32	/	 On Time 	/	 No gate
+KE656	/	 Jeju 	/	10:33	/	 On Time 	/	 No gate
+AI989	/	 Mumbai 	/	10:34	/	 On Time 	/	 No gate
+TG434	/	 Phuket 	/	10:35	/	 On Time 	/	 No gate
+KL767	/	 Copenhagen 	/	10:36	/	 On Time 	/	 No gate
+UA892	/	 Houston 	/	10:37	/	 On Time 	/	 No gate
+DL323	/	 Las Vegas 	/	10:38	/	 On Time 	/	 No gate
+AC656	/	 Vancouver 	/	10:39	/	 On Time 	/	 No gate
+BA989	/	 Manchester 	/	10:40	/	 On Time 	/	 No gate
+LH434	/	 Hamburg 	/	10:41	/	 On Time 	/	 No gate
+AF767	/	 Marseille 	/	10:42	/	 On Time 	/	 No gate
+UA557	/	 Houston 	/	10:43	/	 On Time 	/	 No gate
+AA668	/	 Los Angeles 	/	10:44	/	 On Time 	/	 No gate
+DL779	/	 New York 	/	10:45	/	 On Time 	/	 No gate
+AC890	/	 Toronto 	/	10:46	/	 On Time 	/	 No gate
+BA1001	/	 London 	/	10:47	/	 On Time 	/	 No gate
+LH1012	/	 Frankfurt 	/	10:48	/	 On Time 	/	 No gate
+AF1113	/	 Paris 	/	10:49	/	 On Time 	/	 No gate
+EK1214	/	 Dubai 	/	10:50	/	 On Time 	/	 No gate
+TK1315	/	 Istanbul 	/	10:51	/	 On Time 	/	 No gate
+AZ1416	/	 Rome 	/	10:52	/	 On Time 	/	 No gate
+CX1517	/	 Hong Kong 	/	10:53	/	 On Time 	/	 No gate
+JL1618	/	 Tokyo 	/	10:54	/	 On Time 	/	 No gate
+QR1719	/	 Doha 	/	10:55	/	 On Time 	/	 No gate
+EY1820	/	 Abu Dhabi 	/	10:56	/	 On Time 	/	 No gate
+KE1921	/	 Seoul 	/	10:57	/	 On Time 	/	 No gate
+AI2022	/	 Delhi 	/	10:58	/	 On Time 	/	 No gate
+TG2123	/	 Bangkok 	/	10:59	/	 On Time 	/	 No gate
+KL2224	/	 Amsterdam 	/	11:00	/	 On Time 	/	 No gate
+UA2325	/	 Washington DC 	/	11:01	/	 On Time 	/	 No gate
+DL2426	/	 Miami 	/	11:02	/	 On Time 	/	 No gate
+AA126	/	 Los Angeles 	/	11:03	/	 On Time 	/	 No gate
+UA459	/	 New York 	/	11:04	/	 On Time 	/	 No gate
+DL792	/	 Chicago 	/	11:05	/	 On Time 	/	 No gate
+AC237	/	 Toronto 	/	11:06	/	 On Time 	/	 No gate
+BA570	/	 London 	/	11:07	/	 On Time 	/	 No gate
+LH893	/	 Frankfurt 	/	11:08	/	 On Time 	/	 No gate
+AF126	/	 Paris 	/	11:09	/	 On Time 	/	 No gate
+EK459	/	 Dubai 	/	11:10	/	 On Time 	/	 No gate
+TK792	/	 Istanbul 	/	11:11	/	 On Time 	/	 No gate
+AZ237	/	 Rome 	/	11:12	/	 On Time 	/	 No gate
+CX570	/	 Hong Kong 	/	11:13	/	 On Time 	/	 No gate
+JL893	/	 Tokyo 	/	11:14	/	 On Time 	/	 No gate
+QR126	/	 Doha 	/	11:15	/	 On Time 	/	 No gate
+EY459	/	 Abu Dhabi 	/	11:16	/	 On Time 	/	 No gate
+KE792	/	 Seoul 	/	11:17	/	 On Time 	/	 No gate
+AI237	/	 Delhi 	/	11:18	/	 On Time 	/	 No gate
+TG570	/	 Bangkok 	/	11:19	/	 On Time 	/	 No gate
+KL893	/	 Amsterdam 	/	11:20	/	 On Time 	/	 No gate
+UA324	/	 Washington DC 	/	11:21	/	 On Time 	/	 No gate
+DL657	/	 Miami 	/	11:22	/	 On Time 	/	 No gate
+AC990	/	 Montreal 	/	11:23	/	 On Time 	/	 No gate
+BA435	/	 Edinburgh 	/	11:24	/	 On Time 	/	 No gate
+LH768	/	 Munich 	/	11:25	/	 On Time 	/	 No gate
+AF893	/	 Lyon 	/	11:26	/	 On Time 	/	 No gate
+EK324	/	 Abu Dhabi 	/	11:27	/	 On Time 	/	 No gate
+TK657	/	 Antalya 	/	11:28	/	 On Time 	/	 No gate
+AZ990	/	 Milan 	/	11:29	/	 On Time 	/	 No gate
+CX435	/	 Taipei 	/	11:30	/	 On Time 	/	 No gate
+JL768	/	 Osaka 	/	11:31	/	 On Time 	/	 No gate
+QR893	/	 Dubai 	/	11:32	/	 On Time 	/	 No gate
+EY324	/	 Muscat 	/	11:33	/	 On Time 	/	 No gate
+KE657	/	 Jeju 	/	11:34	/	 On Time 	/	 No gate
+AI990	/	 Mumbai 	/	11:35	/	 On Time 	/	 No gate
+TG435	/	 Phuket 	/	11:36	/	 On Time 	/	 No gate
+KL768	/	 Copenhagen 	/	11:37	/	 On Time 	/	 No gate
+UA893	/	 Houston 	/	11:38	/	 On Time 	/	 No gate
+DL324	/	 Las Vegas 	/	11:39	/	 On Time 	/	 No gate
+AC657	/	 Vancouver 	/	11:40	/	 On Time 	/	 No gate
+BA990	/	 Manchester 	/	11:41	/	 On Time 	/	 No gate
+LH435	/	 Hamburg 	/	11:42	/	 On Time 	/	 No gate
+AF768	/	 Marseille 	/	11:43	/	 On Time 	/	 No gate
+UA558	/	 Houston 	/	11:44	/	 On Time 	/	 No gate
+AA669	/	 Los Angeles 	/	11:45	/	 On Time 	/	 No gate
+DL780	/	 New York 	/	11:46	/	 On Time 	/	 No gate
+AC891	/	 Toronto 	/	11:47	/	 On Time 	/	 No gate
+BA1002	/	 London 	/	11:48	/	 On Time 	/	 No gate
+LH1013	/	 Frankfurt 	/	11:49	/	 On Time 	/	 No gate
+AF1114	/	 Paris 	/	11:50	/	 On Time 	/	 No gate
+EK1215	/	 Dubai 	/	11:51	/	 On Time 	/	 No gate
+TK1316	/	 Istanbul 	/	11:52	/	 On Time 	/	 No gate
+AZ1417	/	 Rome 	/	11:53	/	 On Time 	/	 No gate
+CX1518	/	 Hong Kong 	/	11:54	/	 On Time 	/	 No gate
+JL1619	/	 Tokyo 	/	11:55	/	 On Time 	/	 No gate
+QR1720	/	 Doha 	/	11:56	/	 On Time 	/	 No gate
+EY1821	/	 Abu Dhabi 	/	11:57	/	 On Time 	/	 No gate
+KE1922	/	 Seoul 	/	11:58	/	 On Time 	/	 No gate
+AI2023	/	 Delhi 	/	11:59	/	 On Time 	/	 No gate
+TG2124	/	 Bangkok 	/	12:00	/	 On Time 	/	 No gate
+KL2225	/	 Amsterdam 	/	12:01	/	 On Time 	/	 No gate
+UA2326	/	 Washington DC 	/	12:02	/	 On Time 	/	 No gate
+DL2427	/	 Miami 	/	12:03	/	 On Time 	/	 No gate
+AA127	/	 Los Angeles 	/	12:04	/	 On Time 	/	 No gate
+UA460	/	 New York 	/	12:05	/	 On Time 	/	 No gate
+DL793	/	 Chicago 	/	12:06	/	 On Time 	/	 No gate
+AC238	/	 Toronto 	/	12:07	/	 On Time 	/	 No gate
+BA571	/	 London 	/	12:08	/	 On Time 	/	 No gate
+LH894	/	 Frankfurt 	/	12:09	/	 On Time 	/	 No gate
+AF127	/	 Paris 	/	12:10	/	 On Time 	/	 No gate
+EK460	/	 Dubai 	/	12:11	/	 On Time 	/	 No gate
+TK793	/	 Istanbul 	/	12:12	/	 On Time 	/	 No gate
+AZ238	/	 Rome 	/	12:13	/	 On Time 	/	 No gate
+CX571	/	 Hong Kong 	/	12:14	/	 On Time 	/	 No gate
+JL894	/	 Tokyo 	/	12:15	/	 On Time 	/	 No gate
+QR127	/	 Doha 	/	12:16	/	 On Time 	/	 No gate
+EY460	/	 Abu Dhabi 	/	12:17	/	 On Time 	/	 No gate
+KE793	/	 Seoul 	/	12:18	/	 On Time 	/	 No gate
+AI238	/	 Delhi 	/	12:19	/	 On Time 	/	 No gate
+TG571	/	 Bangkok 	/	12:20	/	 On Time 	/	 No gate
+KL894	/	 Amsterdam 	/	12:21	/	 On Time 	/	 No gate
+UA325	/	 Washington DC 	/	12:22	/	 On Time 	/	 No gate
+DL658	/	 Miami 	/	12:23	/	 On Time 	/	 No gate
+AC991	/	 Montreal 	/	12:24	/	 On Time 	/	 No gate
+BA436	/	 Edinburgh 	/	12:25	/	 On Time 	/	 No gate
+LH769	/	 Munich 	/	12:26	/	 On Time 	/	 No gate
+AF894	/	 Lyon 	/	12:27	/	 On Time 	/	 No gate
+EK325	/	 Abu Dhabi 	/	12:28	/	 On Time 	/	 No gate
+TK658	/	 Antalya 	/	12:29	/	 On Time 	/	 No gate
+AZ991	/	 Milan 	/	12:30	/	 On Time 	/	 No gate
+CX436	/	 Taipei 	/	12:31	/	 On Time 	/	 No gate
+JL769	/	 Osaka 	/	12:32	/	 On Time 	/	 No gate
+QR894	/	 Dubai 	/	12:33	/	 On Time 	/	 No gate
+EY325	/	 Muscat 	/	12:34	/	 On Time 	/	 No gate
+KE658	/	 Jeju 	/	12:35	/	 On Time 	/	 No gate
+AI991	/	 Mumbai 	/	12:36	/	 On Time 	/	 No gate
+TG436	/	 Phuket 	/	12:37	/	 On Time 	/	 No gate
+KL769	/	 Copenhagen 	/	12:38	/	 On Time 	/	 No gate
+UA894	/	 Houston 	/	12:39	/	 On Time 	/	 No gate
+DL325	/	 Las Vegas 	/	12:40	/	 On Time 	/	 No gate
+AC658	/	 Vancouver 	/	12:41	/	 On Time 	/	 No gate
+BA991	/	 Manchester 	/	12:42	/	 On Time 	/	 No gate
+LH436	/	 Hamburg 	/	12:43	/	 On Time 	/	 No gate
+AF769	/	 Marseille 	/	12:44	/	 On Time 	/	 No gate
+UA559	/	 Houston 	/	12:45	/	 On Time 	/	 No gate
+AA670	/	 Los Angeles 	/	12:46	/	 On Time 	/	 No gate
+DL781	/	 New York 	/	12:47	/	 On Time 	/	 No gate
+AC892	/	 Toronto 	/	12:48	/	 On Time 	/	 No gate
+BA1003	/	 London 	/	12:49	/	 On Time 	/	 No gate
+LH1014	/	 Frankfurt 	/	12:50	/	 On Time 	/	 No gate
+AF1115	/	 Paris 	/	12:51	/	 On Time 	/	 No gate
+EK1216	/	 Dubai 	/	12:52	/	 On Time 	/	 No gate
+TK1317	/	 Istanbul 	/	12:53	/	 On Time 	/	 No gate
+AZ1418	/	 Rome 	/	12:54	/	 On Time 	/	 No gate
+CX1519	/	 Hong Kong 	/	12:55	/	 On Time 	/	 No gate
+JL1620	/	 Tokyo 	/	12:56	/	 On Time 	/	 No gate
+QR1721	/	 Doha 	/	12:57	/	 On Time 	/	 No gate
+EY1822	/	 Abu Dhabi 	/	12:58	/	 On Time 	/	 No gate
+KE1923	/	 Seoul 	/	12:59	/	 On Time 	/	 No gate
+AI2024	/	 Delhi 	/	13:00	/	 On Time 	/	 No gate
+TG2125	/	 Bangkok 	/	13:01	/	 On Time 	/	 No gate
+KL2226	/	 Amsterdam 	/	13:02	/	 On Time 	/	 No gate
+UA2327	/	 Washington DC 	/	13:03	/	 On Time 	/	 No gate
+DL2428	/	 Miami 	/	13:04	/	 On Time 	/	 No gate
+AA128	/	 Los Angeles 	/	13:05	/	 On Time 	/	 No gate
+UA461	/	 New York 	/	13:06	/	 On Time 	/	 No gate
+DL794	/	 Chicago 	/	13:07	/	 On Time 	/	 No gate
+AC239	/	 Toronto 	/	13:08	/	 On Time 	/	 No gate
+BA572	/	 London 	/	13:09	/	 On Time 	/	 No gate
+LH895	/	 Frankfurt 	/	13:10	/	 On Time 	/	 No gate
+AF128	/	 Paris 	/	13:11	/	 On Time 	/	 No gate
+EK461	/	 Dubai 	/	13:12	/	 On Time 	/	 No gate
+TK794	/	 Istanbul 	/	13:13	/	 On Time 	/	 No gate
+AZ239	/	 Rome 	/	13:14	/	 On Time 	/	 No gate
+CX572	/	 Hong Kong 	/	13:15	/	 On Time 	/	 No gate
+JL895	/	 Tokyo 	/	13:16	/	 On Time 	/	 No gate
+QR128	/	 Doha 	/	13:17	/	 On Time 	/	 No gate
+EY461	/	 Abu Dhabi 	/	13:18	/	 On Time 	/	 No gate
+KE794	/	 Seoul 	/	13:19	/	 On Time 	/	 No gate
+AI239	/	 Delhi 	/	13:20	/	 On Time 	/	 No gate
+TG572	/	 Bangkok 	/	13:21	/	 On Time 	/	 No gate
+KL895	/	 Amsterdam 	/	13:22	/	 On Time 	/	 No gate
+UA326	/	 Washington DC 	/	13:23	/	 On Time 	/	 No gate
+DL659	/	 Miami 	/	13:24	/	 On Time 	/	 No gate
+AC992	/	 Montreal 	/	13:25	/	 On Time 	/	 No gate
+BA437	/	 Edinburgh 	/	13:26	/	 On Time 	/	 No gate
+LH770	/	 Munich 	/	13:27	/	 On Time 	/	 No gate
+AF895	/	 Lyon 	/	13:28	/	 On Time 	/	 No gate
+EK326	/	 Abu Dhabi 	/	13:29	/	 On Time 	/	 No gate
+TK659	/	 Antalya 	/	13:30	/	 On Time 	/	 No gate
+AZ992	/	 Milan 	/	13:31	/	 On Time 	/	 No gate
+CX437	/	 Taipei 	/	13:32	/	 On Time 	/	 No gate
+JL770	/	 Osaka 	/	13:33	/	 On Time 	/	 No gate
+QR895	/	 Dubai 	/	13:34	/	 On Time 	/	 No gate
+EY326	/	 Muscat 	/	13:35	/	 On Time 	/	 No gate
+KE659	/	 Jeju 	/	13:36	/	 On Time 	/	 No gate
+AI992	/	 Mumbai 	/	13:37	/	 On Time 	/	 No gate
+TG437	/	 Phuket 	/	13:38	/	 On Time 	/	 No gate
+KL770	/	 Copenhagen 	/	13:39	/	 On Time 	/	 No gate
+UA895	/	 Houston 	/	13:40	/	 On Time 	/	 No gate
+DL326	/	 Las Vegas 	/	13:41	/	 On Time 	/	 No gate
+AC659	/	 Vancouver 	/	13:42	/	 On Time 	/	 No gate
+BA992	/	 Manchester 	/	13:43	/	 On Time 	/	 No gate
+LH437	/	 Hamburg 	/	13:44	/	 On Time 	/	 No gate
+AF770	/	 Marseille 	/	13:45	/	 On Time 	/	 No gate
+UA560	/	 Houston 	/	13:46	/	 On Time 	/	 No gate
+AA671	/	 Los Angeles 	/	13:47	/	 On Time 	/	 No gate
+DL782	/	 New York 	/	13:48	/	 On Time 	/	 No gate
+AC893	/	 Toronto 	/	13:49	/	 On Time 	/	 No gate
+BA1004	/	 London 	/	13:50	/	 On Time 	/	 No gate
+LH1015	/	 Frankfurt 	/	13:51	/	 On Time 	/	 No gate
+AF1116	/	 Paris 	/	13:52	/	 On Time 	/	 No gate
+EK1217	/	 Dubai 	/	13:53	/	 On Time 	/	 No gate
+TK1318	/	 Istanbul 	/	13:54	/	 On Time 	/	 No gate
+AZ1419	/	 Rome 	/	13:55	/	 On Time 	/	 No gate
+CX1520	/	 Hong Kong 	/	13:56	/	 On Time 	/	 No gate
+JL1621	/	 Tokyo 	/	13:57	/	 On Time 	/	 No gate
+QR1722	/	 Doha 	/	13:58	/	 On Time 	/	 No gate
+EY1823	/	 Abu Dhabi 	/	13:59	/	 On Time 	/	 No gate
+KE1924	/	 Seoul 	/	14:00	/	 On Time 	/	 No gate
+AI2025	/	 Delhi 	/	14:01	/	 On Time 	/	 No gate
+TG2126	/	 Bangkok 	/	14:02	/	 On Time 	/	 No gate
+KL2227	/	 Amsterdam 	/	14:03	/	 On Time 	/	 No gate
+UA2328	/	 Washington DC 	/	14:04	/	 On Time 	/	 No gate
+DL2429	/	 Miami 	/	14:05	/	 On Time 	/	 No gate
+AA129	/	 Los Angeles 	/	14:06	/	 On Time 	/	 No gate
+UA462	/	 New York 	/	14:07	/	 On Time 	/	 No gate
+DL795	/	 Chicago 	/	14:08	/	 On Time 	/	 No gate
+AC240	/	 Toronto 	/	14:09	/	 On Time 	/	 No gate
+BA573	/	 London 	/	14:10	/	 On Time 	/	 No gate
+LH896	/	 Frankfurt 	/	14:11	/	 On Time 	/	 No gate
+AF129	/	 Paris 	/	14:12	/	 On Time 	/	 No gate
+EK462	/	 Dubai 	/	14:13	/	 On Time 	/	 No gate
+TK795	/	 Istanbul 	/	14:14	/	 On Time 	/	 No gate
+AZ240	/	 Rome 	/	14:15	/	 On Time 	/	 No gate
+CX573	/	 Hong Kong 	/	14:16	/	 On Time 	/	 No gate
+JL896	/	 Tokyo 	/	14:17	/	 On Time 	/	 No gate
+QR129	/	 Doha 	/	14:18	/	 On Time 	/	 No gate
+EY462	/	 Abu Dhabi 	/	14:19	/	 On Time 	/	 No gate
+KE795	/	 Seoul 	/	14:20	/	 On Time 	/	 No gate
+AI240	/	 Delhi 	/	14:21	/	 On Time 	/	 No gate
+TG573	/	 Bangkok 	/	14:22	/	 On Time 	/	 No gate
+KL896	/	 Amsterdam 	/	14:23	/	 On Time 	/	 No gate
+UA327	/	 Washington DC 	/	14:24	/	 On Time 	/	 No gate
+DL660	/	 Miami 	/	14:25	/	 On Time 	/	 No gate
+AC993	/	 Montreal 	/	14:26	/	 On Time 	/	 No gate
+BA438	/	 Edinburgh 	/	14:27	/	 On Time 	/	 No gate
+LH771	/	 Munich 	/	14:28	/	 On Time 	/	 No gate
+AF896	/	 Lyon 	/	14:29	/	 On Time 	/	 No gate
+EK327	/	 Abu Dhabi 	/	14:30	/	 On Time 	/	 No gate
+TK660	/	 Antalya 	/	14:31	/	 On Time 	/	 No gate
+AZ993	/	 Milan 	/	14:32	/	 On Time 	/	 No gate
+CX438	/	 Taipei 	/	14:33	/	 On Time 	/	 No gate
+JL771	/	 Osaka 	/	14:34	/	 On Time 	/	 No gate
+QR896	/	 Dubai 	/	14:35	/	 On Time 	/	 No gate
+EY327	/	 Muscat 	/	14:36	/	 On Time 	/	 No gate
+KE660	/	 Jeju 	/	14:37	/	 On Time 	/	 No gate
+AI993	/	 Mumbai 	/	14:38	/	 On Time 	/	 No gate
+TG438	/	 Phuket 	/	14:39	/	 On Time 	/	 No gate
+KL771	/	 Copenhagen 	/	14:40	/	 On Time 	/	 No gate
+UA896	/	 Houston 	/	14:41	/	 On Time 	/	 No gate
+DL327	/	 Las Vegas 	/	14:42	/	 On Time 	/	 No gate
+AC660	/	 Vancouver 	/	14:43	/	 On Time 	/	 No gate
+BA993	/	 Manchester 	/	14:44	/	 On Time 	/	 No gate
+LH438	/	 Hamburg 	/	14:45	/	 On Time 	/	 No gate
+AF771	/	 Marseille 	/	14:46	/	 On Time 	/	 No gate
+UA561	/	 Houston 	/	14:47	/	 On Time 	/	 No gate
+AA672	/	 Los Angeles 	/	14:48	/	 On Time 	/	 No gate
+DL783	/	 New York 	/	14:49	/	 On Time 	/	 No gate
+AC894	/	 Toronto 	/	14:50	/	 On Time 	/	 No gate
+BA1005	/	 London 	/	14:51	/	 On Time 	/	 No gate
+LH1016	/	 Frankfurt 	/	14:52	/	 On Time 	/	 No gate
+AF1117	/	 Paris 	/	14:53	/	 On Time 	/	 No gate
+EK1218	/	 Dubai 	/	14:54	/	 On Time 	/	 No gate
+TK1319	/	 Istanbul 	/	14:55	/	 On Time 	/	 No gate
+AZ1420	/	 Rome 	/	14:56	/	 On Time 	/	 No gate
+CX1521	/	 Hong Kong 	/	14:57	/	 On Time 	/	 No gate
+JL1622	/	 Tokyo 	/	14:58	/	 On Time 	/	 No gate
+QR1723	/	 Doha 	/	14:59	/	 On Time 	/	 No gate
+EY1824	/	 Abu Dhabi 	/	15:00	/	 On Time 	/	 No gate
+KE1925	/	 Seoul 	/	15:01	/	 On Time 	/	 No gate
+AI2026	/	 Delhi 	/	15:02	/	 On Time 	/	 No gate
+TG2127	/	 Bangkok 	/	15:03	/	 On Time 	/	 No gate
+KL2228	/	 Amsterdam 	/	15:04	/	 On Time 	/	 No gate
+UA2329	/	 Washington DC 	/	15:05	/	 On Time 	/	 No gate
+DL2430	/	 Miami 	/	15:06	/	 On Time 	/	 No gate
+AA130	/	 Los Angeles 	/	15:07	/	 On Time 	/	 No gate
+UA463	/	 New York 	/	15:08	/	 On Time 	/	 No gate
+DL796	/	 Chicago 	/	15:09	/	 On Time 	/	 No gate
+AC241	/	 Toronto 	/	15:10	/	 On Time 	/	 No gate
+BA574	/	 London 	/	15:11	/	 On Time 	/	 No gate
+LH897	/	 Frankfurt 	/	15:12	/	 On Time 	/	 No gate
+AF130	/	 Paris 	/	15:13	/	 On Time 	/	 No gate
+EK463	/	 Dubai 	/	15:14	/	 On Time 	/	 No gate
+TK796	/	 Istanbul 	/	15:15	/	 On Time 	/	 No gate
+AZ241	/	 Rome 	/	15:16	/	 On Time 	/	 No gate
+CX574	/	 Hong Kong 	/	15:17	/	 On Time 	/	 No gate
+JL897	/	 Tokyo 	/	15:18	/	 On Time 	/	 No gate
+QR130	/	 Doha 	/	15:19	/	 On Time 	/	 No gate
+EY463	/	 Abu Dhabi 	/	15:20	/	 On Time 	/	 No gate
+KE796	/	 Seoul 	/	15:21	/	 On Time 	/	 No gate
+AI241	/	 Delhi 	/	15:22	/	 On Time 	/	 No gate
+TG574	/	 Bangkok 	/	15:23	/	 On Time 	/	 No gate
+KL897	/	 Amsterdam 	/	15:24	/	 On Time 	/	 No gate
+UA328	/	 Washington DC 	/	15:25	/	 On Time 	/	 No gate
+DL661	/	 Miami 	/	15:26	/	 On Time 	/	 No gate
+AC994	/	 Montreal 	/	15:27	/	 On Time 	/	 No gate
+BA439	/	 Edinburgh 	/	15:28	/	 On Time 	/	 No gate
+LH772	/	 Munich 	/	15:29	/	 On Time 	/	 No gate
+AF897	/	 Lyon 	/	15:30	/	 On Time 	/	 No gate
+EK328	/	 Abu Dhabi 	/	15:31	/	 On Time 	/	 No gate
+TK661	/	 Antalya 	/	15:32	/	 On Time 	/	 No gate
+AZ994	/	 Milan 	/	15:33	/	 On Time 	/	 No gate
+CX439	/	 Taipei 	/	15:34	/	 On Time 	/	 No gate
+JL772	/	 Osaka 	/	15:35	/	 On Time 	/	 No gate
+QR897	/	 Dubai 	/	15:36	/	 On Time 	/	 No gate
+EY328	/	 Muscat 	/	15:37	/	 On Time 	/	 No gate
+KE661	/	 Jeju 	/	15:38	/	 On Time 	/	 No gate
+AI994	/	 Mumbai 	/	15:39	/	 On Time 	/	 No gate
+TG439	/	 Phuket 	/	15:40	/	 On Time 	/	 No gate
+KL772	/	 Copenhagen 	/	15:41	/	 On Time 	/	 No gate
+UA897	/	 Houston 	/	15:42	/	 On Time 	/	 No gate
+DL328	/	 Las Vegas 	/	15:43	/	 On Time 	/	 No gate
+AC661	/	 Vancouver 	/	15:44	/	 On Time 	/	 No gate
+BA994	/	 Manchester 	/	15:45	/	 On Time 	/	 No gate
+LH439	/	 Hamburg 	/	15:46	/	 On Time 	/	 No gate
+AF772	/	 Marseille 	/	15:47	/	 On Time 	/	 No gate
+UA562	/	 Houston 	/	15:48	/	 On Time 	/	 No gate
+AA673	/	 Los Angeles 	/	15:49	/	 On Time 	/	 No gate
+DL784	/	 New York 	/	15:50	/	 On Time 	/	 No gate
+AC895	/	 Toronto 	/	15:51	/	 On Time 	/	 No gate
+BA1006	/	 London 	/	15:52	/	 On Time 	/	 No gate
+LH1017	/	 Frankfurt 	/	15:53	/	 On Time 	/	 No gate
+AF1118	/	 Paris 	/	15:54	/	 On Time 	/	 No gate
+EK1219	/	 Dubai 	/	15:55	/	 On Time 	/	 No gate
+TK1320	/	 Istanbul 	/	15:56	/	 On Time 	/	 No gate
+AZ1421	/	 Rome 	/	15:57	/	 On Time 	/	 No gate
+CX1522	/	 Hong Kong 	/	15:58	/	 On Time 	/	 No gate
+JL1623	/	 Tokyo 	/	15:59	/	 On Time 	/	 No gate
+QR1724	/	 Doha 	/	16:00	/	 On Time 	/	 No gate
+EY1825	/	 Abu Dhabi 	/	16:01	/	 On Time 	/	 No gate
+KE1926	/	 Seoul 	/	16:02	/	 On Time 	/	 No gate
+AI2027	/	 Delhi 	/	16:03	/	 On Time 	/	 No gate
+TG2128	/	 Bangkok 	/	16:04	/	 On Time 	/	 No gate
+KL2229	/	 Amsterdam 	/	16:05	/	 On Time 	/	 No gate
+UA2330	/	 Washington DC 	/	16:06	/	 On Time 	/	 No gate
+DL2431	/	 Miami 	/	16:07	/	 On Time 	/	 No gate
+AA131	/	 Los Angeles 	/	16:08	/	 On Time 	/	 No gate
+UA464	/	 New York 	/	16:09	/	 On Time 	/	 No gate
+DL797	/	 Chicago 	/	16:10	/	 On Time 	/	 No gate
+AC242	/	 Toronto 	/	16:11	/	 On Time 	/	 No gate
+BA575	/	 London 	/	16:12	/	 On Time 	/	 No gate
+LH898	/	 Frankfurt 	/	16:13	/	 On Time 	/	 No gate
+AF131	/	 Paris 	/	16:14	/	 On Time 	/	 No gate
+EK464	/	 Dubai 	/	16:15	/	 On Time 	/	 No gate
+TK797	/	 Istanbul 	/	16:16	/	 On Time 	/	 No gate
+AZ242	/	 Rome 	/	16:17	/	 On Time 	/	 No gate
+CX575	/	 Hong Kong 	/	16:18	/	 On Time 	/	 No gate
+JL898	/	 Tokyo 	/	16:19	/	 On Time 	/	 No gate
+QR131	/	 Doha 	/	16:20	/	 On Time 	/	 No gate
+EY464	/	 Abu Dhabi 	/	16:21	/	 On Time 	/	 No gate
+KE797	/	 Seoul 	/	16:22	/	 On Time 	/	 No gate
+AI242	/	 Delhi 	/	16:23	/	 On Time 	/	 No gate
+TG575	/	 Bangkok 	/	16:24	/	 On Time 	/	 No gate
+KL898	/	 Amsterdam 	/	16:25	/	 On Time 	/	 No gate
+UA329	/	 Washington DC 	/	16:26	/	 On Time 	/	 No gate
+DL662	/	 Miami 	/	16:27	/	 On Time 	/	 No gate
+AC995	/	 Montreal 	/	16:28	/	 On Time 	/	 No gate
+BA440	/	 Edinburgh 	/	16:29	/	 On Time 	/	 No gate
+LH773	/	 Munich 	/	16:30	/	 On Time 	/	 No gate
+AF898	/	 Lyon 	/	16:31	/	 On Time 	/	 No gate
+EK329	/	 Abu Dhabi 	/	16:32	/	 On Time 	/	 No gate
+TK662	/	 Antalya 	/	16:33	/	 On Time 	/	 No gate
+AZ995	/	 Milan 	/	16:34	/	 On Time 	/	 No gate
+CX440	/	 Taipei 	/	16:35	/	 On Time 	/	 No gate
+JL773	/	 Osaka 	/	16:36	/	 On Time 	/	 No gate
+QR898	/	 Dubai 	/	16:37	/	 On Time 	/	 No gate
+EY329	/	 Muscat 	/	16:38	/	 On Time 	/	 No gate
+KE662	/	 Jeju 	/	16:39	/	 On Time 	/	 No gate
+AI995	/	 Mumbai 	/	16:40	/	 On Time 	/	 No gate
+TG440	/	 Phuket 	/	16:41	/	 On Time 	/	 No gate
+KL773	/	 Copenhagen 	/	16:42	/	 On Time 	/	 No gate
+UA898	/	 Houston 	/	16:43	/	 On Time 	/	 No gate
+DL329	/	 Las Vegas 	/	16:44	/	 On Time 	/	 No gate
+AC662	/	 Vancouver 	/	16:45	/	 On Time 	/	 No gate
+BA995	/	 Manchester 	/	16:46	/	 On Time 	/	 No gate
+LH440	/	 Hamburg 	/	16:47	/	 On Time 	/	 No gate
+AF773	/	 Marseille 	/	16:48	/	 On Time 	/	 No gate
+UA563	/	 Houston 	/	16:49	/	 On Time 	/	 No gate
+AA674	/	 Los Angeles 	/	16:50	/	 On Time 	/	 No gate
+DL785	/	 New York 	/	16:51	/	 On Time 	/	 No gate
+AC896	/	 Toronto 	/	16:52	/	 On Time 	/	 No gate
+BA1007	/	 London 	/	16:53	/	 On Time 	/	 No gate
+LH1018	/	 Frankfurt 	/	16:54	/	 On Time 	/	 No gate
+AF1119	/	 Paris 	/	16:55	/	 On Time 	/	 No gate
+EK1220	/	 Dubai 	/	16:56	/	 On Time 	/	 No gate
+TK1321	/	 Istanbul 	/	16:57	/	 On Time 	/	 No gate
+AZ1422	/	 Rome 	/	16:58	/	 On Time 	/	 No gate
+CX1523	/	 Hong Kong 	/	16:59	/	 On Time 	/	 No gate
+JL1624	/	 Tokyo 	/	17:00	/	 On Time 	/	 No gate
+QR1725	/	 Doha 	/	17:01	/	 On Time 	/	 No gate
+EY1826	/	 Abu Dhabi 	/	17:02	/	 On Time 	/	 No gate
+KE1927	/	 Seoul 	/	17:03	/	 On Time 	/	 No gate
+AI2028	/	 Delhi 	/	17:04	/	 On Time 	/	 No gate
+TG2129	/	 Bangkok 	/	17:05	/	 On Time 	/	 No gate
+KL2230	/	 Amsterdam 	/	17:06	/	 On Time 	/	 No gate
+UA2331	/	 Washington DC 	/	17:07	/	 On Time 	/	 No gate
+DL2432	/	 Miami 	/	17:08	/	 On Time 	/	 No gate
+AA132	/	 Los Angeles 	/	17:09	/	 On Time 	/	 No gate
+UA465	/	 New York 	/	17:10	/	 On Time 	/	 No gate
+DL798	/	 Chicago 	/	17:11	/	 On Time 	/	 No gate
+AC243	/	 Toronto 	/	17:12	/	 On Time 	/	 No gate
+BA576	/	 London 	/	17:13	/	 On Time 	/	 No gate
+LH899	/	 Frankfurt 	/	17:14	/	 On Time 	/	 No gate
+AF132	/	 Paris 	/	17:15	/	 On Time 	/	 No gate
+EK465	/	 Dubai 	/	17:16	/	 On Time 	/	 No gate
+TK798	/	 Istanbul 	/	17:17	/	 On Time 	/	 No gate
+AZ243	/	 Rome 	/	17:18	/	 On Time 	/	 No gate
+CX576	/	 Hong Kong 	/	17:19	/	 On Time 	/	 No gate
+JL899	/	 Tokyo 	/	17:20	/	 On Time 	/	 No gate
+QR132	/	 Doha 	/	17:21	/	 On Time 	/	 No gate
+EY465	/	 Abu Dhabi 	/	17:22	/	 On Time 	/	 No gate
+KE798	/	 Seoul 	/	17:23	/	 On Time 	/	 No gate
+AI243	/	 Delhi 	/	17:24	/	 On Time 	/	 No gate
+TG576	/	 Bangkok 	/	17:25	/	 On Time 	/	 No gate
+KL899	/	 Amsterdam 	/	17:26	/	 On Time 	/	 No gate
+UA330	/	 Washington DC 	/	17:27	/	 On Time 	/	 No gate
+DL663	/	 Miami 	/	17:28	/	 On Time 	/	 No gate
+AC996	/	 Montreal 	/	17:29	/	 On Time 	/	 No gate
+BA441	/	 Edinburgh 	/	17:30	/	 On Time 	/	 No gate
+LH774	/	 Munich 	/	17:31	/	 On Time 	/	 No gate
+AF899	/	 Lyon 	/	17:32	/	 On Time 	/	 No gate
+EK330	/	 Abu Dhabi 	/	17:33	/	 On Time 	/	 No gate
+TK663	/	 Antalya 	/	17:34	/	 On Time 	/	 No gate
+AZ996	/	 Milan 	/	17:35	/	 On Time 	/	 No gate
+CX441	/	 Taipei 	/	17:36	/	 On Time 	/	 No gate
+JL774	/	 Osaka 	/	17:37	/	 On Time 	/	 No gate
+QR899	/	 Dubai 	/	17:38	/	 On Time 	/	 No gate
+EY330	/	 Muscat 	/	17:39	/	 On Time 	/	 No gate
+KE663	/	 Jeju 	/	17:40	/	 On Time 	/	 No gate
+AI996	/	 Mumbai 	/	17:41	/	 On Time 	/	 No gate
+TG441	/	 Phuket 	/	17:42	/	 On Time 	/	 No gate
+KL774	/	 Copenhagen 	/	17:43	/	 On Time 	/	 No gate
+UA899	/	 Houston 	/	17:44	/	 On Time 	/	 No gate
+DL330	/	 Las Vegas 	/	17:45	/	 On Time 	/	 No gate
+AC663	/	 Vancouver 	/	17:46	/	 On Time 	/	 No gate
+BA996	/	 Manchester 	/	17:47	/	 On Time 	/	 No gate
+LH441	/	 Hamburg 	/	17:48	/	 On Time 	/	 No gate
+AF774	/	 Marseille 	/	17:49	/	 On Time 	/	 No gate
+UA564	/	 Houston 	/	17:50	/	 On Time 	/	 No gate
+AA675	/	 Los Angeles 	/	17:51	/	 On Time 	/	 No gate
+DL786	/	 New York 	/	17:52	/	 On Time 	/	 No gate
+AC897	/	 Toronto 	/	17:53	/	 On Time 	/	 No gate
+BA1008	/	 London 	/	17:54	/	 On Time 	/	 No gate
+LH1019	/	 Frankfurt 	/	17:55	/	 On Time 	/	 No gate
+AF1120	/	 Paris 	/	17:56	/	 On Time 	/	 No gate
+EK1221	/	 Dubai 	/	17:57	/	 On Time 	/	 No gate
+TK1322	/	 Istanbul 	/	17:58	/	 On Time 	/	 No gate
+AZ1423	/	 Rome 	/	17:59	/	 On Time 	/	 No gate
+CX1524	/	 Hong Kong 	/	18:00	/	 On Time 	/	 No gate
+JL1625	/	 Tokyo 	/	18:01	/	 On Time 	/	 No gate
+QR1726	/	 Doha 	/	18:02	/	 On Time 	/	 No gate
+EY1827	/	 Abu Dhabi 	/	18:03	/	 On Time 	/	 No gate
+KE1928	/	 Seoul 	/	18:04	/	 On Time 	/	 No gate
+AI2029	/	 Delhi 	/	18:05	/	 On Time 	/	 No gate
+TG2130	/	 Bangkok 	/	18:06	/	 On Time 	/	 No gate
+KL2231	/	 Amsterdam 	/	18:07	/	 On Time 	/	 No gate
+UA2332	/	 Washington DC 	/	18:08	/	 On Time 	/	 No gate
+DL2433	/	 Miami 	/	18:09	/	 On Time 	/	 No gate
+AA133	/	 Los Angeles 	/	18:10	/	 On Time 	/	 No gate
+UA466	/	 New York 	/	18:11	/	 On Time 	/	 No gate
+DL799	/	 Chicago 	/	18:12	/	 On Time 	/	 No gate
+AC244	/	 Toronto 	/	18:13	/	 On Time 	/	 No gate
+BA577	/	 London 	/	18:14	/	 On Time 	/	 No gate
+LH900	/	 Frankfurt 	/	18:15	/	 On Time 	/	 No gate
+AF133	/	 Paris 	/	18:16	/	 On Time 	/	 No gate
+EK466	/	 Dubai 	/	18:17	/	 On Time 	/	 No gate
+TK799	/	 Istanbul 	/	18:18	/	 On Time 	/	 No gate
+AZ244	/	 Rome 	/	18:19	/	 On Time 	/	 No gate
+CX577	/	 Hong Kong 	/	18:20	/	 On Time 	/	 No gate
+JL900	/	 Tokyo 	/	18:21	/	 On Time 	/	 No gate
+QR133	/	 Doha 	/	18:22	/	 On Time 	/	 No gate
+EY466	/	 Abu Dhabi 	/	18:23	/	 On Time 	/	 No gate
+KE799	/	 Seoul 	/	18:24	/	 On Time 	/	 No gate
+AI244	/	 Delhi 	/	18:25	/	 On Time 	/	 No gate
+TG577	/	 Bangkok 	/	18:26	/	 On Time 	/	 No gate
+KL900	/	 Amsterdam 	/	18:27	/	 On Time 	/	 No gate
+UA331	/	 Washington DC 	/	18:28	/	 On Time 	/	 No gate
+DL664	/	 Miami 	/	18:29	/	 On Time 	/	 No gate
+AC997	/	 Montreal 	/	18:30	/	 On Time 	/	 No gate
+BA442	/	 Edinburgh 	/	18:31	/	 On Time 	/	 No gate
+LH775	/	 Munich 	/	18:32	/	 On Time 	/	 No gate
+AF900	/	 Lyon 	/	18:33	/	 On Time 	/	 No gate
+EK331	/	 Abu Dhabi 	/	18:34	/	 On Time 	/	 No gate
+TK664	/	 Antalya 	/	18:35	/	 On Time 	/	 No gate
+AZ997	/	 Milan 	/	18:36	/	 On Time 	/	 No gate
+CX442	/	 Taipei 	/	18:37	/	 On Time 	/	 No gate
+JL775	/	 Osaka 	/	18:38	/	 On Time 	/	 No gate
+QR900	/	 Dubai 	/	18:39	/	 On Time 	/	 No gate
+EY331	/	 Muscat 	/	18:40	/	 On Time 	/	 No gate
+KE664	/	 Jeju 	/	18:41	/	 On Time 	/	 No gate
+AI997	/	 Mumbai 	/	18:42	/	 On Time 	/	 No gate
+TG442	/	 Phuket 	/	18:43	/	 On Time 	/	 No gate
+KL775	/	 Copenhagen 	/	18:44	/	 On Time 	/	 No gate
+UA900	/	 Houston 	/	18:45	/	 On Time 	/	 No gate
+DL331	/	 Las Vegas 	/	18:46	/	 On Time 	/	 No gate
+AC664	/	 Vancouver 	/	18:47	/	 On Time 	/	 No gate
+BA997	/	 Manchester 	/	18:48	/	 On Time 	/	 No gate
+LH442	/	 Hamburg 	/	18:49	/	 On Time 	/	 No gate
+AF775	/	 Marseille 	/	18:50	/	 On Time 	/	 No gate
+UA565	/	 Houston 	/	18:51	/	 On Time 	/	 No gate
+AA676	/	 Los Angeles 	/	18:52	/	 On Time 	/	 No gate
+DL787	/	 New York 	/	18:53	/	 On Time 	/	 No gate
+AC898	/	 Toronto 	/	18:54	/	 On Time 	/	 No gate
+BA1009	/	 London 	/	18:55	/	 On Time 	/	 No gate
+LH1020	/	 Frankfurt 	/	18:56	/	 On Time 	/	 No gate
+AF1121	/	 Paris 	/	18:57	/	 On Time 	/	 No gate
+EK1222	/	 Dubai 	/	18:58	/	 On Time 	/	 No gate
+TK1323	/	 Istanbul 	/	18:59	/	 On Time 	/	 No gate
+AZ1424	/	 Rome 	/	19:00	/	 On Time 	/	 No gate
+CX1525	/	 Hong Kong 	/	19:01	/	 On Time 	/	 No gate
+JL1626	/	 Tokyo 	/	19:02	/	 On Time 	/	 No gate
+QR1727	/	 Doha 	/	19:03	/	 On Time 	/	 No gate
+EY1828	/	 Abu Dhabi 	/	19:04	/	 On Time 	/	 No gate
+KE1929	/	 Seoul 	/	19:05	/	 On Time 	/	 No gate
+AI2030	/	 Delhi 	/	19:06	/	 On Time 	/	 No gate
+TG2131	/	 Bangkok 	/	19:07	/	 On Time 	/	 No gate
+KL2232	/	 Amsterdam 	/	19:08	/	 On Time 	/	 No gate
+UA2333	/	 Washington DC 	/	19:09	/	 On Time 	/	 No gate
+DL2434	/	 Miami 	/	19:10	/	 On Time 	/	 No gate
+AA134	/	 Los Angeles 	/	19:11	/	 On Time 	/	 No gate
+UA467	/	 New York 	/	19:12	/	 On Time 	/	 No gate
+DL800	/	 Chicago 	/	19:13	/	 On Time 	/	 No gate
+AC245	/	 Toronto 	/	19:14	/	 On Time 	/	 No gate
+BA578	/	 London 	/	19:15	/	 On Time 	/	 No gate
+LH901	/	 Frankfurt 	/	19:16	/	 On Time 	/	 No gate
+AF134	/	 Paris 	/	19:17	/	 On Time 	/	 No gate
+EK467	/	 Dubai 	/	19:18	/	 On Time 	/	 No gate
+TK800	/	 Istanbul 	/	19:19	/	 On Time 	/	 No gate
+AZ245	/	 Rome 	/	19:20	/	 On Time 	/	 No gate
+CX578	/	 Hong Kong 	/	19:21	/	 On Time 	/	 No gate
+JL901	/	 Tokyo 	/	19:22	/	 On Time 	/	 No gate
+QR134	/	 Doha 	/	19:23	/	 On Time 	/	 No gate
+EY467	/	 Abu Dhabi 	/	19:24	/	 On Time 	/	 No gate
+KE800	/	 Seoul 	/	19:25	/	 On Time 	/	 No gate
+AI245	/	 Delhi 	/	19:26	/	 On Time 	/	 No gate
+TG578	/	 Bangkok 	/	19:27	/	 On Time 	/	 No gate
+KL901	/	 Amsterdam 	/	19:28	/	 On Time 	/	 No gate
+UA332	/	 Washington DC 	/	19:29	/	 On Time 	/	 No gate
+DL665	/	 Miami 	/	19:30	/	 On Time 	/	 No gate
+AC998	/	 Montreal 	/	19:31	/	 On Time 	/	 No gate
+BA443	/	 Edinburgh 	/	19:32	/	 On Time 	/	 No gate
+LH776	/	 Munich 	/	19:33	/	 On Time 	/	 No gate
+AF901	/	 Lyon 	/	19:34	/	 On Time 	/	 No gate
+EK332	/	 Abu Dhabi 	/	19:35	/	 On Time 	/	 No gate
+TK665	/	 Antalya 	/	19:36	/	 On Time 	/	 No gate
+AZ998	/	 Milan 	/	19:37	/	 On Time 	/	 No gate
+CX443	/	 Taipei 	/	19:38	/	 On Time 	/	 No gate
+JL776	/	 Osaka 	/	19:39	/	 On Time 	/	 No gate
+QR901	/	 Dubai 	/	19:40	/	 On Time 	/	 No gate
+EY332	/	 Muscat 	/	19:41	/	 On Time 	/	 No gate
+KE665	/	 Jeju 	/	19:42	/	 On Time 	/	 No gate
+AI998	/	 Mumbai 	/	19:43	/	 On Time 	/	 No gate
+TG443	/	 Phuket 	/	19:44	/	 On Time 	/	 No gate
+KL776	/	 Copenhagen 	/	19:45	/	 On Time 	/	 No gate
+UA901	/	 Houston 	/	19:46	/	 On Time 	/	 No gate
+DL332	/	 Las Vegas 	/	19:47	/	 On Time 	/	 No gate
+AC665	/	 Vancouver 	/	19:48	/	 On Time 	/	 No gate
+BA998	/	 Manchester 	/	19:49	/	 On Time 	/	 No gate
+LH443	/	 Hamburg 	/	19:50	/	 On Time 	/	 No gate
+AF776	/	 Marseille 	/	19:51	/	 On Time 	/	 No gate
+UA566	/	 Houston 	/	19:52	/	 On Time 	/	 No gate
+AA677	/	 Los Angeles 	/	19:53	/	 On Time 	/	 No gate
+DL788	/	 New York 	/	19:54	/	 On Time 	/	 No gate
+AC899	/	 Toronto 	/	19:55	/	 On Time 	/	 No gate
+BA1010	/	 London 	/	19:56	/	 On Time 	/	 No gate
+LH1021	/	 Frankfurt 	/	19:57	/	 On Time 	/	 No gate
+AF1122	/	 Paris 	/	19:58	/	 On Time 	/	 No gate
+EK1223	/	 Dubai 	/	19:59	/	 On Time 	/	 No gate
+TK1324	/	 Istanbul 	/	20:00	/	 On Time 	/	 No gate
+AI996	/	 Los Angeles 	/	20:01	/	 On Time 	/	 No gate
+TG441	/	 New York 	/	20:02	/	 On Time 	/	 No gate
+KL774	/	 Chicago 	/	20:03	/	 On Time 	/	 No gate
+UA899	/	 Toronto 	/	20:04	/	 On Time 	/	 No gate
+DL330	/	 London 	/	20:05	/	 On Time 	/	 No gate
+AC663	/	 Frankfurt 	/	20:06	/	 On Time 	/	 No gate
+BA996	/	 Paris 	/	20:07	/	 On Time 	/	 No gate
+LH441	/	 Dubai 	/	20:08	/	 On Time 	/	 No gate
+AF774	/	 Istanbul 	/	20:09	/	 On Time 	/	 No gate
+UA564	/	 Rome 	/	20:10	/	 On Time 	/	 No gate
+AA675	/	 Hong Kong 	/	20:11	/	 On Time 	/	 No gate
+DL786	/	 Tokyo 	/	20:12	/	 On Time 	/	 No gate
+AC897	/	 Doha 	/	20:13	/	 On Time 	/	 No gate
+BA1008	/	 Abu Dhabi 	/	20:14	/	 On Time 	/	 No gate
+LH1019	/	 Los Angeles 	/	20:15	/	 On Time 	/	 No gate
+AF1120	/	 New York 	/	20:16	/	 On Time 	/	 No gate
+EK1221	/	 Chicago 	/	20:17	/	 On Time 	/	 No gate
+TK1322	/	 Toronto 	/	20:18	/	 On Time 	/	 No gate
+AZ1423	/	 London 	/	20:19	/	 On Time 	/	 No gate
+CX1524	/	 Frankfurt 	/	20:20	/	 On Time 	/	 No gate
+JL1625	/	 Paris 	/	20:21	/	 On Time 	/	 No gate
+QR1726	/	 Dubai 	/	20:22	/	 On Time 	/	 No gate
+EY1827	/	 Istanbul 	/	20:23	/	 On Time 	/	 No gate
+KE1928	/	 Rome 	/	20:24	/	 On Time 	/	 No gate
+AI2029	/	 Hong Kong 	/	20:25	/	 On Time 	/	 No gate
+TG2130	/	 Tokyo 	/	20:26	/	 On Time 	/	 No gate
+KL2231	/	 Doha 	/	20:27	/	 On Time 	/	 No gate
+UA2332	/	 Abu Dhabi 	/	20:28	/	 On Time 	/	 No gate
+DL2433	/	 Seoul 	/	20:29	/	 On Time 	/	 No gate
+AA133	/	 Delhi 	/	20:30	/	 On Time 	/	 No gate
+UA466	/	 Bangkok 	/	20:31	/	 On Time 	/	 No gate
+DL799	/	 Amsterdam 	/	20:32	/	 On Time 	/	 No gate
+AC244	/	 Washington DC 	/	20:33	/	 On Time 	/	 No gate
+BA577	/	 Miami 	/	20:34	/	 On Time 	/	 No gate
+LH900	/	 Montreal 	/	20:35	/	 On Time 	/	 No gate
+AF133	/	 Edinburgh 	/	20:36	/	 On Time 	/	 No gate
+EK466	/	 Munich 	/	20:37	/	 On Time 	/	 No gate
+TK799	/	 Lyon 	/	20:38	/	 On Time 	/	 No gate
+AZ244	/	 Abu Dhabi 	/	20:39	/	 On Time 	/	 No gate
+CX577	/	 Antalya 	/	20:40	/	 On Time 	/	 No gate
+JL900	/	 Milan 	/	20:41	/	 On Time 	/	 No gate
+QR133	/	 Taipei 	/	20:42	/	 On Time 	/	 No gate
+EY466	/	 Osaka 	/	20:43	/	 On Time 	/	 No gate
+KE799	/	 Dubai 	/	20:44	/	 On Time 	/	 No gate
+AI244	/	 Muscat 	/	20:45	/	 On Time 	/	 No gate
+TG577	/	 Jeju 	/	20:46	/	 On Time 	/	 No gate
+KL900	/	 Mumbai 	/	20:47	/	 On Time 	/	 No gate
+UA331	/	 Phuket 	/	20:48	/	 On Time 	/	 No gate
+DL664	/	 Copenhagen 	/	20:49	/	 On Time 	/	 No gate
+AC997	/	 Houston 	/	20:50	/	 On Time 	/	 No gate
+BA442	/	 Las Vegas 	/	20:51	/	 On Time 	/	 No gate
+LH775	/	 Vancouver 	/	20:52	/	 On Time 	/	 No gate
+AF900	/	 Manchester 	/	20:53	/	 On Time 	/	 No gate
+EK331	/	 Hamburg 	/	20:54	/	 On Time 	/	 No gate
+TK664	/	 Marseille 	/	20:55	/	 On Time 	/	 No gate
+AZ997	/	 Houston 	/	20:56	/	 On Time 	/	 No gate
+CX442	/	 Los Angeles 	/	20:57	/	 On Time 	/	 No gate
+JL775	/	 New York 	/	20:58	/	 On Time 	/	 No gate
+QR900	/	 Toronto 	/	20:59	/	 On Time 	/	 No gate
+EY331	/	 London 	/	21:00	/	 On Time 	/	 No gate
+KE664	/	 Frankfurt 	/	21:01	/	 On Time 	/	 No gate
+AI997	/	 Paris 	/	21:02	/	 On Time 	/	 No gate
+TG442	/	 Dubai 	/	21:03	/	 On Time 	/	 No gate
+KL775	/	 Istanbul 	/	21:04	/	 On Time 	/	 No gate
+UA900	/	 Rome 	/	21:05	/	 On Time 	/	 No gate
+DL331	/	 Hong Kong 	/	21:06	/	 On Time 	/	 No gate
+AC664	/	 Tokyo 	/	21:07	/	 On Time 	/	 No gate
+BA997	/	 Doha 	/	21:08	/	 On Time 	/	 No gate
+LH442	/	 Abu Dhabi 	/	21:09	/	 On Time 	/	 No gate
+AF775	/	 Seoul 	/	21:10	/	 On Time 	/	 No gate
+UA565	/	 Delhi 	/	21:11	/	 On Time 	/	 No gate
+AA676	/	 Bangkok 	/	21:12	/	 On Time 	/	 No gate
+DL787	/	 Amsterdam 	/	21:13	/	 On Time 	/	 No gate
+AC898	/	 Washington DC 	/	21:14	/	 On Time 	/	 No gate
+BA1009	/	 Miami 	/	21:15	/	 On Time 	/	 No gate
+LH1020	/	 Los Angeles 	/	21:16	/	 On Time 	/	 No gate
+AF1121	/	 New York 	/	21:17	/	 On Time 	/	 No gate
+EK1222	/	 Chicago 	/	21:18	/	 On Time 	/	 No gate
+TK1323	/	 Toronto 	/	21:19	/	 On Time 	/	 No gate
+AZ1424	/	 London 	/	21:20	/	 On Time 	/	 No gate
+CX1525	/	 Frankfurt 	/	21:21	/	 On Time 	/	 No gate
+JL1626	/	 Paris 	/	21:22	/	 On Time 	/	 No gate
+QR1727	/	 Dubai 	/	21:23	/	 On Time 	/	 No gate
+EY1828	/	 Istanbul 	/	21:24	/	 On Time 	/	 No gate
+KE1929	/	 Rome 	/	21:25	/	 On Time 	/	 No gate
+AI2030	/	 Hong Kong 	/	21:26	/	 On Time 	/	 No gate
+TG2131	/	 Tokyo 	/	21:27	/	 On Time 	/	 No gate
+KL2232	/	 Doha 	/	21:28	/	 On Time 	/	 No gate
+UA2333	/	 Abu Dhabi 	/	21:29	/	 On Time 	/	 No gate
+DL2434	/	 Seoul 	/	21:30	/	 On Time 	/	 No gate
+AA134	/	 Delhi 	/	21:31	/	 On Time 	/	 No gate
+UA467	/	 Bangkok 	/	21:32	/	 On Time 	/	 No gate
+DL800	/	 Amsterdam 	/	21:33	/	 On Time 	/	 No gate
+AC245	/	 Washington DC 	/	21:34	/	 On Time 	/	 No gate
+BA578	/	 Miami 	/	21:35	/	 On Time 	/	 No gate
+LH901	/	 Montreal 	/	21:36	/	 On Time 	/	 No gate
+AF134	/	 Edinburgh 	/	21:37	/	 On Time 	/	 No gate
+EK467	/	 Munich 	/	21:38	/	 On Time 	/	 No gate
+TK800	/	 Lyon 	/	21:39	/	 On Time 	/	 No gate
+AZ245	/	 Abu Dhabi 	/	21:40	/	 On Time 	/	 No gate
+CX578	/	 Antalya 	/	21:41	/	 On Time 	/	 No gate
+JL901	/	 Milan 	/	21:42	/	 On Time 	/	 No gate
+QR134	/	 Taipei 	/	21:43	/	 On Time 	/	 No gate
+EY467	/	 Osaka 	/	21:44	/	 On Time 	/	 No gate
+KE800	/	 Dubai 	/	21:45	/	 On Time 	/	 No gate
+AI245	/	 Muscat 	/	21:46	/	 On Time 	/	 No gate
+TG578	/	 Jeju 	/	21:47	/	 On Time 	/	 No gate
+KL901	/	 Mumbai 	/	21:48	/	 On Time 	/	 No gate
+UA332	/	 Phuket 	/	21:49	/	 On Time 	/	 No gate
+DL665	/	 Copenhagen 	/	21:50	/	 On Time 	/	 No gate
+AC998	/	 Houston 	/	21:51	/	 On Time 	/	 No gate
+BA443	/	 Las Vegas 	/	21:52	/	 On Time 	/	 No gate
+LH776	/	 Vancouver 	/	21:53	/	 On Time 	/	 No gate
+AF901	/	 Manchester 	/	21:54	/	 On Time 	/	 No gate
+EK332	/	 Hamburg 	/	21:55	/	 On Time 	/	 No gate
+TK665	/	 Marseille 	/	21:56	/	 On Time 	/	 No gate
+AZ998	/	 Houston 	/	21:57	/	 On Time 	/	 No gate
+CX443	/	 Los Angeles 	/	21:58	/	 On Time 	/	 No gate
+JL776	/	 New York 	/	21:59	/	 On Time 	/	 No gate
+QR901	/	 Toronto 	/	22:00	/	 On Time 	/	 No gate
+EY332	/	 London 	/	22:01	/	 On Time 	/	 No gate
+KE665	/	 Frankfurt 	/	22:02	/	 On Time 	/	 No gate
+AI998	/	 Paris 	/	22:03	/	 On Time 	/	 No gate
+TG443	/	 Dubai 	/	22:04	/	 On Time 	/	 No gate
+KL776	/	 Istanbul 	/	22:05	/	 On Time 	/	 No gate
+UA901	/	 Rome 	/	22:06	/	 On Time 	/	 No gate
+DL332	/	 Hong Kong 	/	22:07	/	 On Time 	/	 No gate
+AC665	/	 Tokyo 	/	22:08	/	 On Time 	/	 No gate
+BA998	/	 Doha 	/	22:09	/	 On Time 	/	 No gate
+LH443	/	 Abu Dhabi 	/	22:10	/	 On Time 	/	 No gate
+AF776	/	 Seoul 	/	22:11	/	 On Time 	/	 No gate
+UA566	/	 Delhi 	/	22:12	/	 On Time 	/	 No gate
+AA677	/	 Bangkok 	/	22:13	/	 On Time 	/	 No gate
+DL788	/	 Amsterdam 	/	22:14	/	 On Time 	/	 No gate
+AC899	/	 Washington DC 	/	22:15	/	 On Time 	/	 No gate
+BA1010	/	 Miami 	/	22:16	/	 On Time 	/	 No gate
+LH1021	/	 Los Angeles 	/	22:17	/	 On Time 	/	 No gate
+AF1122	/	 New York 	/	22:18	/	 On Time 	/	 No gate
+EK1223	/	 Chicago 	/	22:19	/	 On Time 	/	 No gate
+TK1324	/	 Toronto 	/	22:20	/	 On Time 	/	 No gate
+AZ1425	/	 London 	/	22:21	/	 On Time 	/	 No gate
+CX1526	/	 Frankfurt 	/	22:22	/	 On Time 	/	 No gate
+JL1627	/	 Paris 	/	22:23	/	 On Time 	/	 No gate
+QR1728	/	 Dubai 	/	22:24	/	 On Time 	/	 No gate
+EY1829	/	 Istanbul 	/	22:25	/	 On Time 	/	 No gate
+KE1930	/	 Rome 	/	22:26	/	 On Time 	/	 No gate
+AI2031	/	 Hong Kong 	/	22:27	/	 On Time 	/	 No gate
+TG2132	/	 Tokyo 	/	22:28	/	 On Time 	/	 No gate
+KL2233	/	 Doha 	/	22:29	/	 On Time 	/	 No gate
+UA2334	/	 Abu Dhabi 	/	22:30	/	 On Time 	/	 No gate
+DL2435	/	 Seoul 	/	22:31	/	 On Time 	/	 No gate
+AA135	/	 Delhi 	/	22:32	/	 On Time 	/	 No gate
+UA468	/	 Bangkok 	/	22:33	/	 On Time 	/	 No gate
+DL801	/	 Amsterdam 	/	22:34	/	 On Time 	/	 No gate
+AC246	/	 Washington DC 	/	22:35	/	 On Time 	/	 No gate
+BA579	/	 Miami 	/	22:36	/	 On Time 	/	 No gate
+LH902	/	 Montreal 	/	22:37	/	 On Time 	/	 No gate
+AF135	/	 Edinburgh 	/	22:38	/	 On Time 	/	 No gate
+EK468	/	 Munich 	/	22:39	/	 On Time 	/	 No gate
+TK801	/	 Lyon 	/	22:40	/	 On Time 	/	 No gate
+AZ246	/	 Abu Dhabi 	/	22:41	/	 On Time 	/	 No gate
+CX579	/	 Antalya 	/	22:42	/	 On Time 	/	 No gate
+JL902	/	 Milan 	/	22:43	/	 On Time 	/	 No gate
+QR135	/	 Taipei 	/	22:44	/	 On Time 	/	 No gate
+EY468	/	 Osaka 	/	22:45	/	 On Time 	/	 No gate
+KE801	/	 Dubai 	/	22:46	/	 On Time 	/	 No gate
+AI246	/	 Muscat 	/	22:47	/	 On Time 	/	 No gate
+TG579	/	 Jeju 	/	22:48	/	 On Time 	/	 No gate
+KL902	/	 Mumbai 	/	22:49	/	 On Time 	/	 No gate
+UA333	/	 Phuket 	/	22:50	/	 On Time 	/	 No gate
+DL666	/	 Copenhagen 	/	22:51	/	 On Time 	/	 No gate
+AC999	/	 Houston 	/	22:52	/	 On Time 	/	 No gate
+BA444	/	 Las Vegas 	/	22:53	/	 On Time 	/	 No gate
+LH777	/	 Vancouver 	/	22:54	/	 On Time 	/	 No gate
+AF902	/	 Manchester 	/	22:55	/	 On Time 	/	 No gate
+EK333	/	 Hamburg 	/	22:56	/	 On Time 	/	 No gate
+TK666	/	 Marseille 	/	22:57	/	 On Time 	/	 No gate
+AZ999	/	 Houston 	/	22:58	/	 On Time 	/	 No gate
+CX444	/	 Los Angeles 	/	22:59	/	 On Time 	/	 No gate
+JL777	/	 New York 	/	23:00	/	 On Time 	/	 No gate
+QR902	/	 Toronto 	/	23:01	/	 On Time 	/	 No gate
+EY333	/	 London 	/	23:02	/	 On Time 	/	 No gate
+KE666	/	 Frankfurt 	/	23:03	/	 On Time 	/	 No gate
+AI999	/	 Paris 	/	23:04	/	 On Time 	/	 No gate
+TG444	/	 Dubai 	/	23:05	/	 On Time 	/	 No gate
+KL777	/	 Istanbul 	/	23:06	/	 On Time 	/	 No gate
+UA902	/	 Rome 	/	23:07	/	 On Time 	/	 No gate
+DL333	/	 Hong Kong 	/	23:08	/	 On Time 	/	 No gate
+AC666	/	 Tokyo 	/	23:09	/	 On Time 	/	 No gate
+BA999	/	 Doha 	/	23:10	/	 On Time 	/	 No gate
+LH444	/	 Abu Dhabi 	/	23:11	/	 On Time 	/	 No gate
+AF777	/	 Seoul 	/	23:12	/	 On Time 	/	 No gate
+UA567	/	 Delhi 	/	23:13	/	 On Time 	/	 No gate
+AA678	/	 Bangkok 	/	23:14	/	 On Time 	/	 No gate
+DL789	/	 Amsterdam 	/	23:15	/	 On Time 	/	 No gate
+AC900	/	 Washington DC 	/	23:16	/	 On Time 	/	 No gate
+BA1011	/	 Miami 	/	23:17	/	 On Time 	/	 No gate
+LH1022	/	 Los Angeles 	/	23:18	/	 On Time 	/	 No gate
+AF1123	/	 New York 	/	23:19	/	 On Time 	/	 No gate
+EK1224	/	 Chicago 	/	23:20	/	 On Time 	/	 No gate
+TK1325	/	 Toronto 	/	23:21	/	 On Time 	/	 No gate
+AI997	/	 London 	/	23:22	/	 On Time 	/	 No gate
+TG442	/	 Frankfurt 	/	23:23	/	 On Time 	/	 No gate
+KL775	/	 Paris 	/	23:24	/	 On Time 	/	 No gate
+UA900	/	 Dubai 	/	23:25	/	 On Time 	/	 No gate
+DL331	/	 Istanbul 	/	23:26	/	 On Time 	/	 No gate
+AC664	/	 Rome 	/	23:27	/	 On Time 	/	 No gate
+BA997	/	 Hong Kong 	/	23:28	/	 On Time 	/	 No gate
+LH442	/	 Tokyo 	/	23:29	/	 On Time 	/	 No gate
+AF775	/	 Doha 	/	23:30	/	 On Time 	/	 No gate
+UA565	/	 Abu Dhabi 	/	23:31	/	 On Time 	/	 No gate
+AA676	/	 Seoul 	/	23:32	/	 On Time 	/	 No gate
+DL787	/	 Delhi 	/	23:33	/	 On Time 	/	 No gate
+AC898	/	 Bangkok 	/	23:34	/	 On Time 	/	 No gate
+BA1009	/	 Amsterdam 	/	23:35	/	 On Time 	/	 No gate
+LH1020	/	 Washington DC 	/	23:36	/	 On Time 	/	 No gate
+AF1121	/	 Miami 	/	23:37	/	 On Time 	/	 No gate
+EK1222	/	 Montreal 	/	23:38	/	 On Time 	/	 No gate
+TK1323	/	 Edinburgh 	/	23:39	/	 On Time 	/	 No gate
+AZ1424	/	 Munich 	/	23:40	/	 On Time 	/	 No gate
+CX1525	/	 Lyon 	/	23:41	/	 On Time 	/	 No gate
+JL1626	/	 Abu Dhabi 	/	23:42	/	 On Time 	/	 No gate
+QR1727	/	 Antalya 	/	23:43	/	 On Time 	/	 No gate
+EY1828	/	 Milan 	/	23:44	/	 On Time 	/	 No gate
+KE1929	/	 Taipei 	/	23:45	/	 On Time 	/	 No gate
+AI2030	/	 Osaka 	/	23:46	/	 On Time 	/	 No gate
+TG2131	/	 Dubai 	/	23:47	/	 On Time 	/	 No gate
+KL2232	/	 Muscat 	/	23:48	/	 On Time 	/	 No gate
+UA2333	/	 Jeju 	/	23:49	/	 On Time 	/	 No gate
+DL2434	/	 Mumbai 	/	23:50	/	 On Time 	/	 No gate
+AA134	/	 Phuket 	/	23:51	/	 On Time 	/	 No gate
+UA467	/	 Copenhagen 	/	23:52	/	 On Time 	/	 No gate
+DL800	/	 Houston 	/	23:53	/	 On Time 	/	 No gate
+AC245	/	 Las Vegas 	/	23:54	/	 On Time 	/	 No gate
+BA578	/	 Vancouver 	/	23:55	/	 On Time 	/	 No gate
+LH901	/	 Manchester 	/	23:56	/	 On Time 	/	 No gate
+AF134	/	 Hamburg 	/	23:57	/	 On Time 	/	 No gate
+EK467	/	 Marseille 	/	23:58	/	 On Time 	/	 No gate
+TK800	/	 Houston 	/	23:59	/	 On Time 	/	 No gate

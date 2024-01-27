@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e8f176b4-fe97-4bca-b62b-ced7f404d3b6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60247/AirportService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AirportService.xsd" MetadataType="Schema" ID="e4ec03f0-3b52-4701-80bb-d488321ebb7e" SourceId="1" SourceUrl="http://localhost:60247/AirportService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AirportService1.xsd" MetadataType="Schema" ID="82b78951-211a-47b0-9d97-212962d2ef7c" SourceId="1" SourceUrl="http://localhost:60247/AirportService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AirportService2.xsd" MetadataType="Schema" ID="0d33e938-d671-43cc-9649-a11f4445b295" SourceId="1" SourceUrl="http://localhost:60247/AirportService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AirportService.wsdl" MetadataType="Wsdl" ID="18e4a09c-5069-434c-a087-534a28ad0d0c" SourceId="1" SourceUrl="http://localhost:60247/AirportService.svc?wsdl" />
+    <MetadataFile FileName="AirportService.disco" MetadataType="Disco" ID="33c726ec-3e74-42eb-8b40-225a1266db1a" SourceId="1" SourceUrl="http://localhost:60247/AirportService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
